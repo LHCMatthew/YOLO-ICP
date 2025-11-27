@@ -1,0 +1,188 @@
+path: # data.yaml
+train:
+  - ../../train_pbr/000000/images/train
+  - ../../train_pbr/000001/images/train
+  - ../../train_pbr/000002/images/train
+  - ../../train_pbr/000003/images/train
+  - ../../train_pbr/000004/images/train
+  - ../../train_pbr/000005/images/train
+  - ../../train_pbr/000006/images/train
+  - ../../train_pbr/000007/images/train
+  - ../../train_pbr/000008/images/train
+  - ../../train_pbr/000009/images/train
+  - ../../train_pbr/000010/images/train
+  - ../../train_pbr/000011/images/train
+  - ../../train_pbr/000012/images/train
+  - ../../train_pbr/000013/images/train
+  - ../../train_pbr/000014/images/train
+  - ../../train_pbr/000015/images/train
+  - ../../train_pbr/000016/images/train
+  - ../../train_pbr/000017/images/train
+  - ../../train_pbr/000018/images/train
+  - ../../train_pbr/000019/images/train
+  - ../../train_pbr/000020/images/train
+  - ../../train_pbr/000021/images/train
+  - ../../train_pbr/000022/images/train
+  - ../../train_pbr/000023/images/train
+  - ../../train_pbr/000024/images/train
+  - ../../train_pbr/000025/images/train
+  - ../../train_pbr/000026/images/train
+  - ../../train_pbr/000027/images/train
+  - ../../train_pbr/000028/images/train
+  - ../../train_pbr/000029/images/train
+  - ../../train_pbr/000030/images/train
+  - ../../train_pbr/000031/images/train
+  - ../../train_pbr/000032/images/train
+  - ../../train_pbr/000033/images/train
+  - ../../train_pbr/000034/images/train
+  - ../../train_pbr/000035/images/train
+  - ../../train_pbr/000036/images/train
+  - ../../train_pbr/000037/images/train
+  - ../../train_pbr/000038/images/train
+  - ../../train_pbr/000039/images/train
+  - ../../train_pbr/000040/images/train
+  - ../../train_pbr/000041/images/train
+  - ../../train_pbr/000042/images/train
+  - ../../train_pbr/000043/images/train
+  - ../../train_pbr/000044/images/train
+  - ../../train_pbr/000045/images/train
+  - ../../train_pbr/000046/images/train
+  - ../../train_pbr/000047/images/train
+  - ../../train_pbr/000048/images/train
+  - ../../train_pbr/000049/images/train
+val:
+  - ../../train_pbr/000000/images/val
+  - ../../train_pbr/000001/images/val
+  - ../../train_pbr/000002/images/val
+  - ../../train_pbr/000003/images/val
+  - ../../train_pbr/000004/images/val
+  - ../../train_pbr/000005/images/val
+  - ../../train_pbr/000006/images/val
+  - ../../train_pbr/000007/images/val
+  - ../../train_pbr/000008/images/val
+  - ../../train_pbr/000009/images/val
+  - ../../train_pbr/000010/images/val
+  - ../../train_pbr/000011/images/val
+  - ../../train_pbr/000012/images/val
+  - ../../train_pbr/000013/images/val
+  - ../../train_pbr/000014/images/val
+  - ../../train_pbr/000015/images/val
+  - ../../train_pbr/000016/images/val
+  - ../../train_pbr/000017/images/val
+  - ../../train_pbr/000018/images/val
+  - ../../train_pbr/000019/images/val
+  - ../../train_pbr/000020/images/val
+  - ../../train_pbr/000021/images/val
+  - ../../train_pbr/000022/images/val
+  - ../../train_pbr/000023/images/val
+  - ../../train_pbr/000024/images/val
+  - ../../train_pbr/000025/images/val
+  - ../../train_pbr/000026/images/val
+  - ../../train_pbr/000027/images/val
+  - ../../train_pbr/000028/images/val
+  - ../../train_pbr/000029/images/val
+  - ../../train_pbr/000030/images/val
+  - ../../train_pbr/000031/images/val
+  - ../../train_pbr/000032/images/val
+  - ../../train_pbr/000033/images/val
+  - ../../train_pbr/000034/images/val
+  - ../../train_pbr/000035/images/val
+  - ../../train_pbr/000036/images/val
+  - ../../train_pbr/000037/images/val
+  - ../../train_pbr/000038/images/val
+  - ../../train_pbr/000039/images/val
+  - ../../train_pbr/000040/images/val
+  - ../../train_pbr/000041/images/val
+  - ../../train_pbr/000042/images/val
+  - ../../train_pbr/000043/images/val
+  - ../../train_pbr/000044/images/val
+  - ../../train_pbr/000045/images/val
+  - ../../train_pbr/000046/images/val
+  - ../../train_pbr/000047/images/val
+  - ../../train_pbr/000048/images/val
+  - ../../train_pbr/000049/images/val
+test:
+  - ../../train_pbr/000000/images/test
+  - ../../train_pbr/000001/images/test
+  - ../../train_pbr/000002/images/test
+  - ../../train_pbr/000003/images/test
+  - ../../train_pbr/000004/images/test
+  - ../../train_pbr/000005/images/test
+  - ../../train_pbr/000006/images/test
+  - ../../train_pbr/000007/images/test
+  - ../../train_pbr/000008/images/test
+  - ../../train_pbr/000009/images/test
+  - ../../train_pbr/000010/images/test
+  - ../../train_pbr/000011/images/test
+  - ../../train_pbr/000012/images/test
+  - ../../train_pbr/000013/images/test
+  - ../../train_pbr/000014/images/test
+  - ../../train_pbr/000015/images/test
+  - ../../train_pbr/000016/images/test
+  - ../../train_pbr/000017/images/test
+  - ../../train_pbr/000018/images/test
+  - ../../train_pbr/000019/images/test
+  - ../../train_pbr/000020/images/test
+  - ../../train_pbr/000021/images/test
+  - ../../train_pbr/000022/images/test
+  - ../../train_pbr/000023/images/test
+  - ../../train_pbr/000024/images/test
+  - ../../train_pbr/000025/images/test
+  - ../../train_pbr/000026/images/test
+  - ../../train_pbr/000027/images/test
+  - ../../train_pbr/000028/images/test
+  - ../../train_pbr/000029/images/test
+  - ../../train_pbr/000030/images/test
+  - ../../train_pbr/000031/images/test
+  - ../../train_pbr/000032/images/test
+  - ../../train_pbr/000033/images/test
+  - ../../train_pbr/000034/images/test
+  - ../../train_pbr/000035/images/test
+  - ../../train_pbr/000036/images/test
+  - ../../train_pbr/000037/images/test
+  - ../../train_pbr/000038/images/test
+  - ../../train_pbr/000039/images/test
+  - ../../train_pbr/000040/images/test
+  - ../../train_pbr/000041/images/test
+  - ../../train_pbr/000042/images/test
+  - ../../train_pbr/000043/images/test
+  - ../../train_pbr/000044/images/test
+  - ../../train_pbr/000045/images/test
+  - ../../train_pbr/000046/images/test
+  - ../../train_pbr/000047/images/test
+  - ../../train_pbr/000048/images/test
+  - ../../train_pbr/000049/images/test
+
+nc: 15
+names:
+  0: 'ape'                # obj_id 1
+  1: 'obj 2'        # obj_id 2 (missing confirmation)
+  2: 'obj 3'               # obj_id 3 (missing confirmation)
+  3: 'obj 4'               # obj_id 4 (missing confirmation)
+  4: 'watering can'               # obj_id 5 (missing confirmation)
+  5: 'cat toy'       # obj_id 6
+  6: 'obj 7'            # obj_id 7
+  7: 'driller'       # obj_id 8 (missing confirmation)
+  8: 'duck toy'            # obj_id 9
+  9: 'egg box'           # obj_id 10
+  10: 'glue'           # obj_id 11
+  11: 'holepuncher'              # obj_id 12
+  12: 'obj 13'        # obj_id 13 (missing confirmation)
+  13: 'obj 14'        # obj_id 14 (missing confirmation)
+  14: 'obj 15'        # obj_id 15 (missing confirmation)
+
+  # 0: 'benchvise'
+  # 1: 'holepuncher'
+  # 2: 'lamp'
+  # 3: 'glue'
+  # 4: 'bowl'
+  # 5: 'cup'
+  # 6: 'ape'
+  # 7: 'clothes iron'
+  # 8: 'watering can'
+  # 9: 'eggbox'
+  # 10: 'driller'
+  # 11: 'phone'
+  # 12: 'duck'
+  # 13: 'cat toy'
+  # 14: 'camera'
